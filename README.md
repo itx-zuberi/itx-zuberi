@@ -90,33 +90,29 @@ I am a Computer Science graduate and 2x founder specializing in cybersecurity, A
 
 ### Featured Projects
 
+#### 💼 QasimOS — Interactive Portfolio
+Personal interactive portfolio site, styled as a Windows 11 style desktop experience with a working terminal, a project explorer, and an "Ask Qasim" assistant.
+**Stack:** TypeScript
+**Link:** https://github.com/itx-zuberi/qasim-s-os
+**Live:** https://qasimzuberi.vercel.app/
+
+#### 🆘 SheSafe by Qararix — Women Safety System
+A safety application with real time GPS tracking and automated emergency notification via SMS and calls, with Firebase based alerting and health monitoring for rapid emergency communication.
+**Stack:** Android, Firebase, GPS, IoT Monitoring
+**Link:** https://github.com/itx-zuberi/shesafebyqararix
+
 #### 🛡️ HISN — CTI Based Intrusion Detection and Prevention System
 Flagship IDS/IPS product built at Qararix. Combines Cyber Threat Intelligence based detection, CIDR based IP filtering, and automated response for real time network defense. Integrates IoT sensors for network telemetry and uses packet level monitoring with rule based signatures to detect and block malicious TCP/UDP traffic. Ranked Top 10 in Accelerate Punjab, an incubation program by the Punjab Information Technology Board.
 **Stack:** Python, Suricata, Snort, IoT, TCP/IP
-**Link:** https://github.com/itx-zuberi/hisn-vercel
 
 #### 🦾 HuMotion — Prosthetic Arm System
 A prosthetic arm prototype controlled through EMG muscle signal detection sensors, with microcontroller driven robotic actuation and real time sensory feedback integrated into the hardware prototype.
 **Stack:** Embedded Systems, Microcontrollers, Sensors, Robotics
-**Link:** https://github.com/itx-zuberi/HuMotion
-
-#### 🆘 SheSafe — Women Safety System
-A safety application with real time GPS tracking and automated emergency notification via SMS and calls, with Firebase based alerting and health monitoring for rapid emergency communication.
-**Stack:** Android, Firebase, GPS, IoT Monitoring
-**Link:** https://github.com/itx-zuberi/SheSafe
 
 #### 🧠 Stroke Prediction App
 A machine learning application to predict stroke risk from patient health data.
-**Link:** https://github.com/itx-zuberi/stroke_prediction_app
-
-#### 💼 Qasim Portfolio
-Personal interactive portfolio site, styled as a Windows 11 style desktop experience with a working terminal and an "Ask Qasim" assistant.
-**Stack:** TypeScript
-**Link:** https://github.com/itx-zuberi/qasim-portfolio
-**Live:** https://qasimzuberi.vercel.app/
 
 #### 📦 Styrolin
-**Link:** https://github.com/itx-zuberi/styrolin
 
 #### 🏠 Smart Home Surveillance System
 An AI based surveillance system to monitor home environments using live camera feeds. Built a computer vision pipeline to detect motion, identify suspicious activity, and trigger real time alerts from RTSP camera streams.

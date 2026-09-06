@@ -1,41 +1,39 @@
-<h1 align="center">Qasim Mustafa Zuberi</h1>
-<h3 align="center">Founder and CEO, Qararix | Cybersecurity and AI/ML Engineer</h3>
+<!--Banner-->
+![Qasim Zuberi Banner](./assets/banner.png)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Building+CTI+based+Intrusion+Detection+Systems;Architecting+Edge+AI+and+IoT+Ecosystems;Founder+of+Qararix" alt="typing banner" />
+<!--Header Name-->
+# I'm Qasim
+*Founder and CEO, Qararix | Cybersecurity and AI/ML Engineer*
+<br />
+
+<!--Start Intro-->
+<p align="left">I am a Computer Science graduate and founder specializing in cybersecurity, AI/ML, intelligent automation, and secure systems engineering. I build edge AI systems, IoT ecosystems, intrusion detection platforms, LLM powered pipelines, and backend APIs.</p>
+
+- Founder and CEO of Qararix, a SYSaaS and SaaS cybersecurity venture.
+- Building HISN, a CTI based Intrusion Detection and Prevention System, ranked Top 10 in Accelerate Punjab (PITB).
+- Working across AI/ML, NLP, computer vision, and LLM pipelines.
+- Strong foundation in networking (TCP/IP, UDP, CIDR), cyber defense, and cloud native deployment.
+- BS Computer Science, KICSIT (IST Islamabad), 2022 to 2026.
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=itx-zuberi&label=Profile%20views&color=2EE6A6&style=for-the-badge" alt="itx-zuberi" style="padding-right:20px;" />
 </p>
 
+---
+
+<!--Currently Building Section-->
+<h2 align="left">Currently Building</h2>
+<p align="left">Qararix delivers CTI based defense platforms, secure IoT ecosystems, and AI driven threat detection as subscription services. Full technical direction across architecture, team leadership, client delivery, and infrastructure for 50 plus client and internal projects.</p>
+
+---
+
+<!--Tech Stack Section-->
+<h2 align="center">Tech Stack</h2>
+
+<p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itx-zuberi&label=Profile%20Views&color=2EE6A6&style=flat" alt="profile views" />
-  <a href="https://qasimzuberi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2EE6A6?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/zuberiii"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" /></a>
-  <a href="mailto:qasimmmustafa112@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square" /></a>
-</p>
-
----
-
-### About
-
-I am Qasim, a Computer Science graduate and founder specializing in cybersecurity, AI/ML, intelligent automation, and secure systems engineering. I build edge AI systems, IoT ecosystems, intrusion detection platforms, LLM powered pipelines, and backend APIs.
-
-- Founder and CEO of Qararix, a SYSaaS and SaaS cybersecurity venture
-- Building HISN, a CTI based Intrusion Detection and Prevention System, ranked Top 10 in Accelerate Punjab (PITB)
-- Working across AI/ML, NLP, computer vision, and LLM pipelines
-- Strong foundation in networking (TCP/IP, UDP, CIDR), cyber defense, and cloud native deployment
-- BS Computer Science, KICSIT (IST Islamabad), 2022 to 2026
-
----
-
-### Currently Building
-
-Qararix delivers CTI based defense platforms, secure IoT ecosystems, and AI driven threat detection as subscription services. Full technical direction across architecture, team leadership, client delivery, and infrastructure for 50+ client and internal projects.
-
----
-
-### Tech Stack
-
-**Languages**
-<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -44,8 +42,8 @@ Qararix delivers CTI based defense platforms, secure IoT ecosystems, and AI driv
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
-**AI, ML, and LLMs**
-<p>
+<p align="center"><strong>AI, ML, and LLMs</strong></p>
+<p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
@@ -56,8 +54,8 @@ Qararix delivers CTI based defense platforms, secure IoT ecosystems, and AI driv
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
 </p>
 
-**Backend and DevOps**
-<p>
+<p align="center"><strong>Backend and DevOps</strong></p>
+<p align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -68,8 +66,8 @@ Qararix delivers CTI based defense platforms, secure IoT ecosystems, and AI driv
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
-**Databases**
-<p>
+<p align="center"><strong>Databases</strong></p>
+<p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -77,8 +75,8 @@ Qararix delivers CTI based defense platforms, secure IoT ecosystems, and AI driv
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
-**Networking and Cybersecurity**
-<p>
+<p align="center"><strong>Networking and Cybersecurity</strong></p>
+<p align="center">
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/Snort-black?style=flat-square" />
@@ -86,10 +84,12 @@ Qararix delivers CTI based defense platforms, secure IoT ecosystems, and AI driv
 <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
+<br />
 
 ---
 
-### Featured Projects
+<!--Featured Projects Section-->
+<h2 align="center">Featured Projects</h2>
 
 **QasimOS, Interactive Portfolio**
 Personal interactive portfolio site, styled as a Windows 11 style desktop experience with a working terminal, a project explorer, and an Ask Qasim assistant.
@@ -129,28 +129,59 @@ Stack: Python, REST APIs, Workflow Automation
 
 ---
 
-### GitHub Stats
+<!--Github Stats Table-->
+<h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itx-zuberi&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itx-zuberi&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itx-zuberi&theme=radical&hide_border=true" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/itx-zuberi">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=itx-zuberi&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Streak Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/itx-zuberi">
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itx-zuberi&theme=radical&hide_border=true" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
 ---
 
-### Contact
+<!--Contact Section-->
+<h2 align="center">Connect With Me</h2>
+<div align="center">
 
-For project inquiries, security reviews, or collaboration opportunities, reach out through any of the channels below.
+<a href="mailto:qasimmmustafa112@gmail.com" target="_blank">
+<img src="./assets/gmail.png" width="50" height="50" alt="qasimmmustafa112@gmail.com" style="margin-bottom: 5px;" />
+</a>
 
-<p align="left">
-  <a href="mailto:qasimmmustafa112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/zuberiii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://qasimzuberi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2EE6A6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/itx-zuberi" target="_blank">
+<img src="./assets/github.png" width="50" height="50" alt="itx-zuberi" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/zuberiii" target="_blank">
+<img src="./assets/linkedin.png" width="50" height="50" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://qasimzuberi.vercel.app/" target="_blank">
+<img src="./assets/vercel.png" width="50" height="50" alt="portfolio" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
+
+<p align="center">Rawalpindi, Pakistan | +92 333 8971343</p>
+
+<!--Footer-->
+<p align="center">
+  <img src="./assets/footer.png" width="100%"/>
 </p>
-
-Location: Rawalpindi, Pakistan
-Phone: +92 333 8971343

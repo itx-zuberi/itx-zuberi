@@ -65,9 +65,9 @@
 <p align="center">
   <a href="https://github.com/itx-zuberi">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=itx-zuberi&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=itx-zuberi&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=itx-zuberi&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=itx-zuberi&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=itx-zuberi&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=itx-zuberi&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
 </p>
@@ -90,7 +90,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛꜱ</strong></h3>
       <p align="center">
         <a href="https://github.com/itx-zuberi">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itx-zuberi&theme=nightowl&background=0d1b2a&fire=2ee6a6&ring=2ee6a6&sideNums=ffffff&sideLabels=ffffff&dates=2ee6a6&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com/?user=itx-zuberi&theme=nightowl&background=0d1b2a&fire=2ee6a6&ring=2ee6a6&sideNums=ffffff&sideLabels=ffffff&dates=2ee6a6&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -108,7 +108,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ</strong></h3>
       <p align="center">
         <a href="https://github.com/itx-zuberi">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=itx-zuberi&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0d1b2a&title_color=2ee6a6&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=itx-zuberi&limit=2&theme=dracula&combine_all_yearly_contributions=false" alt="Top Repo" />
         </a>
       </p>
     </td>

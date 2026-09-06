@@ -1,18 +1,17 @@
 <!--Banner-->
-<p align="center">
-  <img src="./assets/banner.png" width="100%" />
-</p>
+![Qasim Banner Image](./assets/banner.png)
+
+<!--Owl mascot image-->
+<div>
+  <img align="right" width="30%" src="./assets/mascot.png">
+</div>
 
 <!--Header Name-->
-# I'm Qasim
+# I'm Qasim!
 *Founder and CEO, Qararix | Cybersecurity and AI/ML Engineer*
 <br />
 
 <!--Start Intro-->
-<table>
-<tr>
-<td width="72%" valign="top">
-
 <p align="left">I am a 2x founder and Computer Science graduate specializing in cybersecurity, AI/ML, intelligent automation, and secure systems engineering. I build edge AI systems, IoT ecosystems, intrusion detection platforms, LLM powered pipelines, computer vision surveillance systems, and backend APIs.</p>
 
 - Founder and CEO of Qararix, a SYSaaS and SaaS cybersecurity venture.
@@ -22,18 +21,11 @@
 - Strong foundation in networking (TCP/IP, UDP, CIDR), cyber defense, and cloud native deployment.
 - BS Computer Science, KICSIT (IST Islamabad), 2022 to 2026.
 - Visit my [portfolio](https://qasimzuberi.vercel.app/) for more details about me.
-
-</td>
-<td width="28%" align="center">
-<img src="./assets/mascot.png" width="220" alt="mascot" />
-</td>
-</tr>
-</table>
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itx-zuberi&label=Profile%20views&color=2ee6a6&style=for-the-badge" alt="itx-zuberi" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=itx-zuberi&label=Profile%20views&color=a83fd4&style=for-the-badge" alt="itx-zuberi" style="padding-right:20px;" />
 </p>
 
 ---
@@ -63,6 +55,7 @@
   <li>Built NeuralAge, a Stable Diffusion powered facial aging research platform.</li>
 </ul>
 <br />
+<br />
 
 ---
 
@@ -70,7 +63,7 @@
 <h2 align="center">GitHub Trophies</h2>
 <p align="center">
   <a href="https://github.com/itx-zuberi">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=itx-zuberi&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia" />
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=itx-zuberi&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
   </a>
 </p>
 <br />
@@ -84,7 +77,7 @@
       <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/itx-zuberi">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=itx-zuberi&count_private=true&show_icons=true&theme=nightowl&bg_color=0d1b2a&title_color=2ee6a6&text_color=ffffff&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=itx-zuberi&count_private=true&show_icons=true&theme=nightowl&bg_color=0,1f0630,441350&title_color=e0c6f0&text_color=ffffff&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -92,7 +85,7 @@
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/itx-zuberi">
-          <img align="center" src="https://streak-stats.demolab.com/?user=itx-zuberi&theme=nightowl&background=0d1b2a&fire=2ee6a6&ring=2ee6a6&sideNums=ffffff&sideLabels=ffffff&dates=2ee6a6&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com/?user=itx-zuberi&theme=nightowl&background=0,1f0630,441350&fire=2ee6a6&ring=2ee6a6&sideNums=ffffff&sideLabels=ffffff&dates=e0c6f0&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -102,7 +95,7 @@
       <h3 align="center"><strong>Latest Project</strong></h3>
       <p align="center">
         <a href="https://github.com/itx-zuberi/qasim-s-os">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=itx-zuberi&repo=qasim-s-os&theme=nightowl&show_owner=true&bg_color=0d1b2a&title_color=2ee6a6&text_color=ffffff" alt="Latest Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=itx-zuberi&repo=qasim-s-os&theme=nightowl&show_owner=true&bg_color=0,1f0630,441350&title_color=e0c6f0&text_color=ffffff" alt="Latest Project" />
         </a>
       </p>
     </td>
@@ -118,12 +111,10 @@
 </table>
 <br />
 
----
-
 <!--Contribution Graph-->
 <h2 align="center">Contribution Graph</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itx-zuberi&bg_color=0d1b2a&color=ffffff&line=2ee6a6&point=ffffff&area=false&hide_border=false">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itx-zuberi&bg_color=1f0630&color=ffffff&line=a83fd4&point=2ee6a6&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -131,7 +122,7 @@
 <!--Quote card-->
 <h2 align="center">Thought of the Day</h2>
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&theme=dark&bg_color=0d1b2a&author_color=2ee6a6&accent_color=1c375a">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&theme=dark&bg_color=1f0630&author_color=2ee6a6&accent_color=a83fd4">
 </p>
 
 ---
@@ -141,19 +132,19 @@
 <div align="center">
 
 <a href="mailto:qasimmmustafa112@gmail.com" target="_blank">
-<img src="./assets/gmail.png" width="60" height="60" alt="Email" style="margin: 0 8px;" />
+<img src="./assets/gmail.png" width="50" height="50" alt="qasimmmustafa112@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/itx-zuberi" target="_blank">
-<img src="./assets/github.png" width="60" height="60" alt="GitHub" style="margin: 0 8px;" />
+<img src="./assets/github.png" width="50" height="50" alt="itx-zuberi" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/zuberiii" target="_blank">
-<img src="./assets/linkedin.png" width="60" height="60" alt="LinkedIn" style="margin: 0 8px;" />
+<img src="./assets/linkedin.png" width="50" height="50" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://qasimzuberi.vercel.app/" target="_blank">
-<img src="./assets/vercel.png" width="60" height="60" alt="Portfolio" style="margin: 0 8px;" />
+<img src="./assets/vercel.png" width="50" height="50" alt="portfolio" style="margin-bottom: 5px;" />
 </a>
 
 </div>

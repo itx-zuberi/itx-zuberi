@@ -1,0 +1,156 @@
+<h1 align="center">Hi, I'm Qasim Mustafa Zuberi 👋</h1>
+<h3 align="center">Founder & CEO @ Qararix | Cybersecurity & AI/ML Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Building+CTI-based+Intrusion+Detection+Systems;Architecting+Edge+AI+and+IoT+Ecosystems;Founder+of+Qararix+%7C+SYSaaS+%2B+SaaS+Cybersecurity;Python+%7C+Django+%7C+Docker+%7C+LLMs+%7C+Network+Security" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://qasimzuberi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2EE6A6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zuberiii"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:qasimmmustafa112@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### About Me
+
+I am a Computer Science graduate and 2x founder specializing in cybersecurity, AI/ML, intelligent automation, and secure systems engineering. I build edge AI systems, IoT ecosystems, intrusion detection platforms, LLM powered pipelines, and backend APIs. My work sits at the intersection of neural network research and rugged hardware deployment.
+
+- 🚀 Founder and CEO of **Qararix**, a SYSaaS and SaaS cybersecurity venture
+- 🛡️ Building **HISN**, a CTI based Intrusion Detection and Prevention System, ranked Top 10 in Accelerate Punjab (PITB)
+- 🤖 Working across AI/ML, NLP, computer vision, and LLM pipelines
+- 🌐 Strong foundation in networking (TCP/IP, UDP, CIDR), cyber defense, and cloud native deployment
+- 🎓 BS Computer Science, KICSIT (IST Islamabad), 2022 to 2026
+
+---
+
+### Currently Building
+
+**Qararix** delivers CTI based defense platforms, secure IoT ecosystems, and AI driven threat detection as subscription services. I lead full technical direction across architecture, team leadership, client delivery, and infrastructure for 50+ client and internal projects.
+
+---
+
+### Tech Stack
+
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
+
+**AI / ML / LLMs**
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
+</p>
+
+**Backend & DevOps**
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+**Databases**
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+**Networking & Cybersecurity**
+<p>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Snort-black?style=flat-square" />
+<img src="https://img.shields.io/badge/Suricata-black?style=flat-square" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### Featured Projects
+
+#### 🛡️ HISN — CTI Based Intrusion Detection and Prevention System
+Flagship IDS/IPS product built at Qararix. Combines Cyber Threat Intelligence based detection, CIDR based IP filtering, and automated response for real time network defense. Integrates IoT sensors for network telemetry and uses packet level monitoring with rule based signatures to detect and block malicious TCP/UDP traffic. Ranked Top 10 in Accelerate Punjab, an incubation program by the Punjab Information Technology Board.
+**Stack:** Python, Suricata, Snort, IoT, TCP/IP
+**Link:** https://github.com/itx-zuberi/hisn-vercel
+
+#### 🦾 HuMotion — Prosthetic Arm System
+A prosthetic arm prototype controlled through EMG muscle signal detection sensors, with microcontroller driven robotic actuation and real time sensory feedback integrated into the hardware prototype.
+**Stack:** Embedded Systems, Microcontrollers, Sensors, Robotics
+**Link:** https://github.com/itx-zuberi/HuMotion
+
+#### 🆘 SheSafe — Women Safety System
+A safety application with real time GPS tracking and automated emergency notification via SMS and calls, with Firebase based alerting and health monitoring for rapid emergency communication.
+**Stack:** Android, Firebase, GPS, IoT Monitoring
+**Link:** https://github.com/itx-zuberi/SheSafe
+
+#### 🧠 Stroke Prediction App
+A machine learning application to predict stroke risk from patient health data.
+**Link:** https://github.com/itx-zuberi/stroke_prediction_app
+
+#### 💼 Qasim Portfolio
+Personal interactive portfolio site, styled as a Windows 11 style desktop experience with a working terminal and an "Ask Qasim" assistant.
+**Stack:** TypeScript
+**Link:** https://github.com/itx-zuberi/qasim-portfolio
+**Live:** https://qasimzuberi.vercel.app/
+
+#### 📦 Styrolin
+**Link:** https://github.com/itx-zuberi/styrolin
+
+<!--
+Projects mentioned on the resume that are not yet linked to a repository:
+- Smart Home Surveillance System (Python, OpenCV, Computer Vision, RTSP Streaming)
+- Bullying Detection System (ML, NLP, Computer Vision, TensorFlow, YOLO)
+- Calling Agent Automation (Python, REST APIs, Workflow Automation)
+Add these as sections once repos are shared, using the same format as above.
+-->
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itx-zuberi&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itx-zuberi&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itx-zuberi&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### Contact the Developer
+
+Have a project in mind, a security review to run, or an idea to build together? Reach out.
+
+<p align="left">
+  <a href="mailto:qasimmmustafa112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zuberiii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://qasimzuberi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2EE6A6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+📍 Rawalpindi, Pakistan | 📞 +92-333-8971343
+
+<p align="center"><i>Bridging neural network research with rugged hardware, one deployment at a time.</i></p>

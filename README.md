@@ -118,13 +118,17 @@ Personal interactive portfolio site, styled as a Windows 11 style desktop experi
 #### 📦 Styrolin
 **Link:** https://github.com/itx-zuberi/styrolin
 
-<!--
-Projects mentioned on the resume that are not yet linked to a repository:
-- Smart Home Surveillance System (Python, OpenCV, Computer Vision, RTSP Streaming)
-- Bullying Detection System (ML, NLP, Computer Vision, TensorFlow, YOLO)
-- Calling Agent Automation (Python, REST APIs, Workflow Automation)
-Add these as sections once repos are shared, using the same format as above.
--->
+#### 🏠 Smart Home Surveillance System
+An AI based surveillance system to monitor home environments using live camera feeds. Built a computer vision pipeline to detect motion, identify suspicious activity, and trigger real time alerts from RTSP camera streams.
+**Stack:** Python, OpenCV, Computer Vision, RTSP Streaming
+
+#### 🚨 Bullying Detection System
+A real time bullying detection system using multi modal machine learning models across image, video, and text streams. Integrated NLP classifiers for text based abuse detection alongside computer vision models for behavioral analysis, processing multi camera feeds for automated monitoring and harmful behavior classification.
+**Stack:** ML, NLP, Computer Vision, TensorFlow, YOLO
+
+#### 📞 Calling Agent Automation
+Python automation tools built to manage and optimize call agent workflows, reducing manual effort significantly. Integrated REST API hooks and scripting to automate task routing and operational reporting.
+**Stack:** Python, REST APIs, Workflow Automation
 
 ---
 

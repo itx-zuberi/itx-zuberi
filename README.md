@@ -1,5 +1,8 @@
+<h1 align="center">Qasim Mustafa Zuberi</h1>
+<h3 align="center">Founder and CEO, Qararix | Cybersecurity and AI/ML Engineer</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:2EE6A6&height=180&section=header&text=Qasim%20Mustafa%20Zuberi&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Founder%20%26%20CEO,%20Qararix%20%7C%20Cybersecurity%20%26%20AI%2FML%20Engineer&descSize=16&descAlignY=65" alt="banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Building+CTI+based+Intrusion+Detection+Systems;Architecting+Edge+AI+and+IoT+Ecosystems;Founder+of+Qararix" alt="typing banner" />
 </p>
 
 <p align="center">
@@ -11,10 +14,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
 ### About
 
 I am Qasim, a Computer Science graduate and founder specializing in cybersecurity, AI/ML, intelligent automation, and secure systems engineering. I build edge AI systems, IoT ecosystems, intrusion detection platforms, LLM powered pipelines, and backend APIs.
@@ -24,13 +23,6 @@ I am Qasim, a Computer Science graduate and founder specializing in cybersecurit
 - Working across AI/ML, NLP, computer vision, and LLM pipelines
 - Strong foundation in networking (TCP/IP, UDP, CIDR), cyber defense, and cloud native deployment
 - BS Computer Science, KICSIT (IST Islamabad), 2022 to 2026
-
-</td>
-<td width="35%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" alt="coding" />
-</td>
-</tr>
-</table>
 
 ---
 

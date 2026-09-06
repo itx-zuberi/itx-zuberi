@@ -9,6 +9,10 @@
 <br />
 
 <!--Start Intro-->
+<table>
+<tr>
+<td width="72%" valign="top">
+
 <p align="left">I am a 2x founder and Computer Science graduate specializing in cybersecurity, AI/ML, intelligent automation, and secure systems engineering. I build edge AI systems, IoT ecosystems, intrusion detection platforms, LLM powered pipelines, computer vision surveillance systems, and backend APIs.</p>
 
 - Founder and CEO of Qararix, a SYSaaS and SaaS cybersecurity venture.
@@ -18,6 +22,13 @@
 - Strong foundation in networking (TCP/IP, UDP, CIDR), cyber defense, and cloud native deployment.
 - BS Computer Science, KICSIT (IST Islamabad), 2022 to 2026.
 - Visit my [portfolio](https://qasimzuberi.vercel.app/) for more details about me.
+
+</td>
+<td width="28%" align="center">
+<img src="./assets/mascot.png" width="220" alt="mascot" />
+</td>
+</tr>
+</table>
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -130,19 +141,19 @@
 <div align="center">
 
 <a href="mailto:qasimmmustafa112@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="./assets/gmail.png" width="60" height="60" alt="Email" style="margin: 0 8px;" />
 </a>
 
 <a href="https://github.com/itx-zuberi" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="./assets/github.png" width="60" height="60" alt="GitHub" style="margin: 0 8px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/zuberiii" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="./assets/linkedin.png" width="60" height="60" alt="LinkedIn" style="margin: 0 8px;" />
 </a>
 
 <a href="https://qasimzuberi.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<img src="./assets/vercel.png" width="60" height="60" alt="Portfolio" style="margin: 0 8px;" />
 </a>
 
 </div>

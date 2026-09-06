@@ -1,93 +1,84 @@
 <!--Banner-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c375a,100:2ee6a6&height=200&section=header&text=Qasim%20Mustafa%20Zuberi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%2C%20Qararix%20%7C%20Cybersecurity%20%26%20AI%2FML%20Engineer&descAlignY=58&descSize=18" />
+  <img src="./assets/banner.png" width="100%" />
 </p>
 
-<!--Sidebar mascot-->
-<div>
-  <img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Qᴀꜱɪᴍ!
-*Founder & CEO, Qararix | Cybersecurity and AI/ML Engineer*
+# I'm Qasim
+*Founder and CEO, Qararix | Cybersecurity and AI/ML Engineer*
 <br />
 
 <!--Start Intro-->
 <p align="left">I am a 2x founder and Computer Science graduate specializing in cybersecurity, AI/ML, intelligent automation, and secure systems engineering. I build edge AI systems, IoT ecosystems, intrusion detection platforms, LLM powered pipelines, computer vision surveillance systems, and backend APIs.</p>
 
-- 🛡 Founder and CEO of **Qararix**, a SYSaaS and SaaS cybersecurity venture.
-- 🔐 Building **HISN**, a CTI based Intrusion Detection and Prevention System, and **SentriQ**, a remote laptop security platform — ranked Top 10 in Accelerate Punjab (PITB).
-- 🧠 Working across AI/ML, NLP, computer vision, generative AI, and LLM pipelines — from Vision Transformers to Stable Diffusion.
-- 📱 Shipping Android/IoT companion apps and Ethereum smart contracts alongside cybersecurity products.
-- 🌐 Strong foundation in networking (TCP/IP, UDP, CIDR), cyber defense, and cloud native deployment.
-- 🎓 BS Computer Science, KICSIT (IST Islamabad), 2022 – 2026.
-- 💻 Visit my [Portfolio](https://qasimzuberi.vercel.app/) for more details about me.
+- Founder and CEO of Qararix, a SYSaaS and SaaS cybersecurity venture.
+- Building HISN, a CTI based Intrusion Detection and Prevention System, and SentriQ, a remote laptop security platform. Both ranked Top 10 in Accelerate Punjab (PITB).
+- Working across AI/ML, NLP, computer vision, generative AI, and LLM pipelines, ranging from Vision Transformers to Stable Diffusion.
+- Shipping Android and IoT companion apps alongside Ethereum smart contracts and cybersecurity products.
+- Strong foundation in networking (TCP/IP, UDP, CIDR), cyber defense, and cloud native deployment.
+- BS Computer Science, KICSIT (IST Islamabad), 2022 to 2026.
+- Visit my [portfolio](https://qasimzuberi.vercel.app/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itx-zuberi&label=Profile%20views&color=2ee6a6&style=for-the-badge&logo=star" alt="itx-zuberi" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=itx-zuberi&label=Profile%20views&color=2ee6a6&style=for-the-badge" alt="itx-zuberi" style="padding-right:20px;" />
 </p>
 
 ---
 
 <!--Tech Stack Section-->
-<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Lᴀᴛᴇꜱᴛ Hɪɢʜʟɪɢʜᴛꜱ</h2>
+<h2 align="center">Tech Stack and Latest Highlights</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,csharp,solidity,js,php,bash&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,cs,solidity,js,php,bash&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,django,flask,nodejs,react&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,nginx,redis,postgres,mysql,mongodb&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=firebase,androidstudio,linux,git,wireshark,vscode,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,androidstudio,linux,git,kali,vscode,postman,figma&theme=dark" />
 </p>
 <br />
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge of Vision Transformers and generative AI (Stable Diffusion, Diffusers).</li>
+  <li>Deepening my knowledge of Vision Transformers and generative AI, including Stable Diffusion and Diffusers.</li>
   <li>Scaling Qararix's multi-tenant SaaS infrastructure with Docker and CI/CD pipelines.</li>
   <li>Exploring Solidity and smart contract security patterns in more depth.</li>
 </ul>
 
 <h3 align="left">Latest Highlights</h3>
 <ul align="left">
-  <li>🏆 Ranked <strong>Top 10 in Accelerate Punjab (PITB)</strong> for HISN's innovation in AI-driven cyber defense.</li>
-  <li>🚀 Shipped <strong>SentriQ</strong>, a real-time remote laptop security and anti-intrusion platform.</li>
-  <li>🤖 Built <strong>NeuralAge</strong>, a Stable Diffusion powered facial-aging research platform.</li>
+  <li>Ranked Top 10 in Accelerate Punjab (PITB) for HISN's innovation in AI driven cyber defense.</li>
+  <li>Shipped SentriQ, a real time remote laptop security and anti-intrusion platform.</li>
+  <li>Built NeuralAge, a Stable Diffusion powered facial aging research platform.</li>
 </ul>
 <br />
 
 ---
 
 <!--Trophies Section-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇꜱ 🏆</h2>
+<h2 align="center">GitHub Trophies</h2>
 <p align="center">
   <a href="https://github.com/itx-zuberi">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=itx-zuberi&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=itx-zuberi&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=itx-zuberi&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=itx-zuberi&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia" />
   </a>
 </p>
 <br />
 
 <!--Github Stats Table-->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛꜱ 📊</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛꜱ</strong></h3>
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/itx-zuberi">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=itx-zuberi&count_private=true&show_icons=true&theme=nightowl&bg_color=0,0d1b2a,1c375a&title_color=2ee6a6&text_color=ffffff&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=itx-zuberi&count_private=true&show_icons=true&theme=nightowl&bg_color=0d1b2a&title_color=2ee6a6&text_color=ffffff&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛꜱ</strong></h3>
+      <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/itx-zuberi">
           <img align="center" src="https://streak-stats.demolab.com/?user=itx-zuberi&theme=nightowl&background=0d1b2a&fire=2ee6a6&ring=2ee6a6&sideNums=ffffff&sideLabels=ffffff&dates=2ee6a6&currStreakNum=ffffff" alt="Streak Stats" />
@@ -97,7 +88,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇꜱᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Latest Project</strong></h3>
       <p align="center">
         <a href="https://github.com/itx-zuberi/qasim-s-os">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=itx-zuberi&repo=qasim-s-os&theme=nightowl&show_owner=true&bg_color=0d1b2a&title_color=2ee6a6&text_color=ffffff" alt="Latest Project" />
@@ -105,7 +96,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ</strong></h3>
+      <h3 align="center"><strong>Top Contributions</strong></h3>
       <p align="center">
         <a href="https://github.com/itx-zuberi">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=itx-zuberi&limit=2&theme=dracula&combine_all_yearly_contributions=false" alt="Top Repo" />
@@ -116,27 +107,26 @@
 </table>
 <br />
 
+---
+
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">Contribution Graph</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itx-zuberi&bg_color=0d1b2a&color=ffffff&line=2ee6a6&point=ffffff&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itx-zuberi&bg_color=0d1b2a&color=ffffff&line=2ee6a6&point=ffffff&area=false&hide_border=false">
 </div>
 
 ---
 
-<!--Dynamic Quote card, updates daily via GitHub Actions-->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏꜰ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
+<!--Quote card-->
+<h2 align="center">Thought of the Day</h2>
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&theme=dark&bg_color=0d1b2a&author_color=2ee6a6&accent_color=1c375a">
 </p>
-<!--ENDS_HERE_QUOTE_CARD-->
 
 ---
 
 <!--Contact Section-->
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<h2 align="center">Connect With Me</h2>
 <div align="center">
 
 <a href="mailto:qasimmmustafa112@gmail.com" target="_blank">
@@ -162,5 +152,5 @@
 
 <!--Footer-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ee6a6,100:1c375a&height=90&section=footer"/>
+  <img src="./assets/footer.png" width="100%" />
 </p>

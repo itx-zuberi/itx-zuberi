@@ -31,10 +31,7 @@ I am a 2x founder and Computer Science graduate specializing in cybersecurity, A
 ### Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,cpp,java,cs,solidity,js,php,bash&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,django,flask,nodejs,react&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,nginx,redis,postgres,mysql,mongodb&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=firebase,androidstudio,linux,git,kali,vscode,postman,figma&theme=dark" />
+<img src="./assets/techstack.svg" width="420" alt="tech stack" />
 </p>
 
 ---
@@ -53,47 +50,18 @@ I am a 2x founder and Computer Science graduate specializing in cybersecurity, A
 
 ---
 
-### GitHub Trophies
+### GitHub Snapshot
 
 <p align="center">
-  <a href="https://github.com/itx-zuberi">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=itx-zuberi&no-bg=true&no-frame=true&row=2&column=6&theme=onedark" />
-  </a>
+  <img src="./assets/stats_panel.png" width="100%" alt="GitHub stats" />
 </p>
 
-### GitHub Stats
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=itx-zuberi&count_private=true&show_icons=true&theme=chartreuse-dark&bg_color=060a10&title_color=00ffe1&text_color=ffffff&icon_color=00ffe1&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <img src="https://streak-stats.demolab.com/?user=itx-zuberi&theme=dark&background=060a10&stroke=00ffe1&fire=00ffe1&ring=00ffe1&sideNums=ffffff&sideLabels=ffffff&dates=8fa3a6&currStreakNum=ffffff" alt="Streak Stats" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p align="center">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=itx-zuberi&repo=qasim-s-os&theme=chartreuse-dark&show_owner=true&bg_color=060a10&title_color=00ffe1&text_color=ffffff" alt="Latest Project" />
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=itx-zuberi&limit=2&theme=dark&bg_color=060a10&title_color=00ffe1&text_color=ffffff" alt="Top Contributions" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-### Contribution Graph
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=itx-zuberi&theme=dark&background=060a10&stroke=00ffe1&fire=00ffe1&ring=00ffe1&sideNums=ffffff&sideLabels=ffffff&dates=8fa3a6&currStreakNum=ffffff" alt="Streak Stats" />
+</p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itx-zuberi&bg_color=060a10&color=00ffe1&line=00ffe1&point=ffffff&area=true&area_color=00ffe1&hide_border=true" />
+  <img src="./assets/project_card.png" width="100%" alt="pinned project" />
 </p>
 
 ---

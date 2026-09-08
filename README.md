@@ -69,7 +69,7 @@ BS Computer Science, KICSIT (IST Islamabad), 2022 to 2026. Coursework in Artific
 ### Tech Stack
 
 <p align="center">
-<img src="./assets/techstack.svg" width="420" alt="tech stack" />
+<img src="./assets/techstack.svg" width="360" alt="tech stack" />
 </p>
 
 ---

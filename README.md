@@ -16,7 +16,27 @@
 
 ### About
 
-I am a 2x founder and Computer Science graduate specializing in cybersecurity, AI/ML, intelligent automation, and secure systems engineering. I build edge AI systems, IoT ecosystems, intrusion detection platforms, LLM powered pipelines, computer vision surveillance systems, and backend APIs.
+<table>
+<tr>
+<td width="30%" align="center" valign="top">
+<img src="./assets/avatar.gif" width="220" alt="avatar" />
+</td>
+<td width="70%" valign="top">
+
+<p>I am a 2x founder and Computer Science graduate specializing in cybersecurity, AI/ML, intelligent automation, and secure systems engineering. I build edge AI systems, IoT ecosystems, intrusion detection platforms, LLM powered pipelines, computer vision surveillance systems, and backend APIs.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-00ffe1?style=flat-square&labelColor=060a10" />
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-00ffe1?style=flat-square&labelColor=060a10" />
+<img src="https://img.shields.io/badge/Focus-AI%2FML-00ffe1?style=flat-square&labelColor=060a10" />
+<img src="https://img.shields.io/badge/Based%20in-Rawalpindi%2C%20Pakistan-00ffe1?style=flat-square&labelColor=060a10" />
+</p>
+
+<blockquote>Bridging neural network research with production grade software and rugged hardware.</blockquote>
+
+</td>
+</tr>
+</table>
 
 - Founder and CEO of Qararix, a SYSaaS and SaaS cybersecurity venture.
 - Building HISN, a CTI based Intrusion Detection and Prevention System, and SentriQ, a remote laptop security platform. Both ranked Top 10 in Accelerate Punjab (PITB).
@@ -25,6 +45,24 @@ I am a 2x founder and Computer Science graduate specializing in cybersecurity, A
 - Strong foundation in networking (TCP/IP, UDP, CIDR), cyber defense, and cloud native deployment.
 - BS Computer Science, KICSIT (IST Islamabad), 2022 to 2026.
 - Portfolio: [qasimzuberi.vercel.app](https://qasimzuberi.vercel.app/)
+
+<details>
+<summary><strong>Full experience and education</strong></summary>
+<br/>
+
+**Qararix, Founder and CEO (2026 to Present)**
+Founded a SYSaaS and SaaS cybersecurity venture delivering CTI based defense platforms, secure IoT ecosystems, and AI driven threat detection as subscription services. Architected multi-tenant SaaS backend infrastructure with Django, PostgreSQL, Docker, and CI/CD pipelines, and managed 50+ client and internal projects end to end.
+
+**NASTP Alpha, Automation Specialist (Sep 2025 to Present)**
+Developed Python based automation workflows and intelligent monitoring systems, including log analysis and workflow orchestration pipelines for operational environments.
+
+**Devrolin, Automation Engineer (Sep 2025 to Feb 2026)**
+Built Python automation tools for log processing and data pipeline orchestration, integrating automation scripts into CI/CD ready development workflows.
+
+**Education**
+BS Computer Science, KICSIT (IST Islamabad), 2022 to 2026. Coursework in Artificial Intelligence, Machine Learning, Deep Learning, Computer Networks, Software Engineering, Database Systems, Operating Systems, Cybersecurity, Visual Programming, and Blockchain.
+
+</details>
 
 ---
 

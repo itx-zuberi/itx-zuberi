@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itx-zuberi&label=Profile%20views&color=00ffe1&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=itx-zuberi&label=Profile%20views&color=5B4FFF&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -19,17 +19,17 @@
 <table>
 <tr>
 <td width="30%" align="center" valign="top">
-<img src="./assets/avatar.gif" width="220" alt="avatar" />
+<img src="./assets/globe.gif" width="220" alt="avatar" />
 </td>
 <td width="70%" valign="top">
 
 <p>I am a 2x founder and Computer Science graduate specializing in cybersecurity, AI/ML, intelligent automation, and secure systems engineering. I build edge AI systems, IoT ecosystems, intrusion detection platforms, LLM powered pipelines, computer vision surveillance systems, and backend APIs.</p>
 
 <p>
-<img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-00ffe1?style=flat-square&labelColor=060a10" />
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-00ffe1?style=flat-square&labelColor=060a10" />
-<img src="https://img.shields.io/badge/Focus-AI%2FML-00ffe1?style=flat-square&labelColor=060a10" />
-<img src="https://img.shields.io/badge/Based%20in-Rawalpindi%2C%20Pakistan-00ffe1?style=flat-square&labelColor=060a10" />
+<img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-5B4FFF?style=flat-square&labelColor=04050c" />
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-5B4FFF?style=flat-square&labelColor=04050c" />
+<img src="https://img.shields.io/badge/Focus-AI%2FML-5B4FFF?style=flat-square&labelColor=04050c" />
+<img src="https://img.shields.io/badge/Based%20in-Rawalpindi%2C%20Pakistan-5B4FFF?style=flat-square&labelColor=04050c" />
 </p>
 
 <blockquote>Bridging neural network research with production grade software and rugged hardware.</blockquote>
@@ -124,7 +124,7 @@ Each repository README includes full project details and a contact section for s
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itx-zuberi&theme=dark&background=060a10&stroke=00ffe1&fire=00ffe1&ring=00ffe1&sideNums=ffffff&sideLabels=ffffff&dates=8fa3a6&currStreakNum=ffffff" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=itx-zuberi&theme=dark&background=04050c&stroke=5B4FFF&fire=5B4FFF&ring=5B4FFF&sideNums=ffffff&sideLabels=ffffff&dates=8fa3a6&currStreakNum=ffffff" alt="Streak Stats" />
 </p>
 
 <p align="center">

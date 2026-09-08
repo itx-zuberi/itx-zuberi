@@ -50,6 +50,35 @@ I am a 2x founder and Computer Science graduate specializing in cybersecurity, A
 
 ---
 
+### Projects
+
+**Cybersecurity and Security Products**
+- [HISN](https://github.com/itx-zuberi/hisn), CTI based Intrusion Detection and Prevention System
+- [SentriQ](https://github.com/itx-zuberi/sentriq), remote laptop security and anti-intrusion platform
+
+**AI, Machine Learning, and Computer Vision**
+- [NeuralAge](https://github.com/itx-zuberi/neuralage), region-aware facial aging research platform
+- [AI-Powered Retail Surveillance System](https://github.com/itx-zuberi/retail-surveillance-system), hybrid suspicious activity detection
+- [Stroke Risk Prediction Dashboard](https://github.com/itx-zuberi/stroke-risk-prediction), clinical risk scoring served through a live dashboard
+- [Multi-Step Sales Forecasting](https://github.com/itx-zuberi/sales-forecasting-deep-learning), deep sequence model benchmarking
+
+**Mobile and IoT Systems**
+- [MedicalZone](https://github.com/itx-zuberi/medicalzone), multi-role healthcare Android application
+- [Child Safety Band](https://github.com/itx-zuberi/child-safety-band), wearable companion app
+- [HuMotion](https://github.com/itx-zuberi/humotion), AI-powered smart prosthetic arm
+- [SheSafe by Qararix](https://github.com/itx-zuberi/shesafebyqararix), women's safety system
+
+**Web, Backend, and Full-Stack**
+- [AI Document Summarizer](https://github.com/itx-zuberi/ai-document-summarizer), self-hosted privacy-friendly summarization microservice
+- [Animora Nexus](https://github.com/itx-zuberi/animora-nexus), anime catalogue management system
+
+**Blockchain**
+- [Ethereum Smart Contract Suite and MetaMask Dashboards](https://github.com/itx-zuberi/ethereum-smart-contracts)
+
+Each repository README includes full project details and a contact section for source code access.
+
+---
+
 ### GitHub Snapshot
 
 <p align="center">

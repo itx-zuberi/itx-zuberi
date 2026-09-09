@@ -1,11 +1,11 @@
 <!--Banner-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itx-zuberi/itx-zuberi/main/assets/banner.png" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/itx-zuberi/itx-zuberi@main/assets/banner.png" width="100%" />
 </p>
 
 <!--Terminal Animation-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itx-zuberi/itx-zuberi/main/assets/terminal.gif" width="420" alt="terminal" />
+  <img src="https://cdn.jsdelivr.net/gh/itx-zuberi/itx-zuberi@main/assets/terminal.gif" width="420" alt="terminal" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ### About
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/itx-zuberi/itx-zuberi/main/assets/globe.gif" width="180" alt="avatar" />
+<img src="https://cdn.jsdelivr.net/gh/itx-zuberi/itx-zuberi@main/assets/globe.gif" width="180" alt="avatar" />
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ BS Computer Science, KICSIT (IST Islamabad), 2022 to 2026. Coursework in Artific
 ### Tech Stack
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/itx-zuberi/itx-zuberi/main/assets/techstack.svg" width="360" alt="tech stack" />
+<img src="https://cdn.jsdelivr.net/gh/itx-zuberi/itx-zuberi@main/assets/techstack.svg" width="360" alt="tech stack" />
 </p>
 
 ---
@@ -113,7 +113,7 @@ Each repository README includes full project details and a contact section for s
 ### GitHub Snapshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itx-zuberi/itx-zuberi/main/assets/stats_panel.png" width="100%" alt="GitHub stats" />
+  <img src="https://cdn.jsdelivr.net/gh/itx-zuberi/itx-zuberi@main/assets/stats_panel.png" width="100%" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -121,7 +121,7 @@ Each repository README includes full project details and a contact section for s
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itx-zuberi/itx-zuberi/main/assets/project_card.png" width="100%" alt="pinned project" />
+  <img src="https://cdn.jsdelivr.net/gh/itx-zuberi/itx-zuberi@main/assets/project_card.png" width="100%" alt="pinned project" />
 </p>
 
 ---
@@ -131,19 +131,19 @@ Each repository README includes full project details and a contact section for s
 <p align="center">
 
 <a href="mailto:qasimmmustafa112@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/itx-zuberi/itx-zuberi/main/assets/gmail.png" width="60" height="60" alt="Email" style="margin: 0 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/itx-zuberi/itx-zuberi@main/assets/gmail.png" width="60" height="60" alt="Email" style="margin: 0 6px;" />
 </a>
 
 <a href="https://github.com/itx-zuberi" target="_blank">
-<img src="https://raw.githubusercontent.com/itx-zuberi/itx-zuberi/main/assets/github.png" width="60" height="60" alt="GitHub" style="margin: 0 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/itx-zuberi/itx-zuberi@main/assets/github.png" width="60" height="60" alt="GitHub" style="margin: 0 6px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/zuberiii" target="_blank">
-<img src="https://raw.githubusercontent.com/itx-zuberi/itx-zuberi/main/assets/linkedin.png" width="60" height="60" alt="LinkedIn" style="margin: 0 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/itx-zuberi/itx-zuberi@main/assets/linkedin.png" width="60" height="60" alt="LinkedIn" style="margin: 0 6px;" />
 </a>
 
 <a href="https://qasimzuberi.vercel.app/" target="_blank">
-<img src="https://raw.githubusercontent.com/itx-zuberi/itx-zuberi/main/assets/vercel.png" width="60" height="60" alt="Portfolio" style="margin: 0 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/itx-zuberi/itx-zuberi@main/assets/vercel.png" width="60" height="60" alt="Portfolio" style="margin: 0 6px;" />
 </a>
 
 </p>
@@ -151,5 +151,5 @@ Each repository README includes full project details and a contact section for s
 <p align="center">Rawalpindi, Pakistan &nbsp;|&nbsp; +92 333 8971343</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itx-zuberi/itx-zuberi/main/assets/footer.png" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/itx-zuberi/itx-zuberi@main/assets/footer.png" width="100%" />
 </p>

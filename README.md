@@ -5,7 +5,7 @@
 
 <!--Terminal Animation-->
 <p align="center">
-  <img src="./assets/terminal.gif" width="560" alt="terminal" />
+  <img src="./assets/terminal.gif" width="420" alt="terminal" />
 </p>
 
 <p align="center">
@@ -16,27 +16,20 @@
 
 ### About
 
-<table>
-<tr>
-<td width="30%" align="center" valign="top">
-<img src="./assets/globe.gif" width="220" alt="avatar" />
-</td>
-<td width="70%" valign="top">
+<p align="center">
+<img src="./assets/globe.gif" width="180" alt="avatar" />
+</p>
 
-<p>I am a 2x founder and Computer Science graduate specializing in cybersecurity, AI/ML, intelligent automation, and secure systems engineering. I build edge AI systems, IoT ecosystems, intrusion detection platforms, LLM powered pipelines, computer vision surveillance systems, and backend APIs.</p>
-
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-7A82C9?style=flat-square&labelColor=14161f" />
 <img src="https://img.shields.io/badge/Focus-Cybersecurity-7A82C9?style=flat-square&labelColor=14161f" />
 <img src="https://img.shields.io/badge/Focus-AI%2FML-7A82C9?style=flat-square&labelColor=14161f" />
 <img src="https://img.shields.io/badge/Based%20in-Rawalpindi%2C%20Pakistan-7A82C9?style=flat-square&labelColor=14161f" />
 </p>
 
-<blockquote>Bridging neural network research with production grade software and rugged hardware.</blockquote>
+<p>I am a 2x founder and Computer Science graduate specializing in cybersecurity, AI/ML, intelligent automation, and secure systems engineering. I build edge AI systems, IoT ecosystems, intrusion detection platforms, LLM powered pipelines, computer vision surveillance systems, and backend APIs.</p>
 
-</td>
-</tr>
-</table>
+<blockquote>Bridging neural network research with production grade software and rugged hardware.</blockquote>
 
 - Founder and CEO of Qararix, a SYSaaS and SaaS cybersecurity venture.
 - Building HISN, a CTI based Intrusion Detection and Prevention System, and SentriQ, a remote laptop security platform. Both ranked Top 10 in Accelerate Punjab (PITB).
